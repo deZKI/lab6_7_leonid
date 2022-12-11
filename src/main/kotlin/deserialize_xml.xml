@@ -1,0 +1,26 @@
+<ArrayList>
+    <item>
+        <airline>Аэрофлот</airline>
+        <flight>UN7388</flight>
+        <time>17:30</time>
+        <from>Владивосток</from>
+        <latest>18:30</latest>
+        <remarks>Багаж выдан</remarks>
+    </item>
+    <item>
+        <airline>S7</airline>
+        <flight>UN1238</flight>
+        <time>16:30</time>
+        <from>Москва</from>
+        <latest>18:30</latest>
+        <remarks>Задерживается</remarks>
+    </item>
+    <item>
+        <airline>Северный ветер</airline>
+        <flight>UN73128</flight>
+        <time>17:30</time>
+        <from>Новгород</from>
+        <latest>18:30</latest>
+        <remarks>Багаж выдан</remarks>
+    </item>
+</ArrayList>
